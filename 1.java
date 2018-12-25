@@ -8,7 +8,7 @@ System.out.println (" Please enter number b : ");
 int b = read.nextInt();
 System.out.println (" Please enter number c : ");
 int c = read.nextInt();
-d=Calculations.sun(a,b);
+d=Calculations.sum(a,b);
 System.out.println (d);
 }
 }
