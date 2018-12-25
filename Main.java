@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class A {
+public class Main {
 public static void main (String args[] ) {
 Calculations obj = new Calculations();
 Scanner read = new Scanner (System.in);
